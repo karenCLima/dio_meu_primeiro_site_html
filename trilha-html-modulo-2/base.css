@@ -1,0 +1,83 @@
+html, body {
+    margin: 0;
+    }
+
+    body {
+        background-color: #f1f1f1;
+        display: flex;
+        justify-content: center;
+    }
+
+    .wrapper {
+        width: 1200px;
+        display: flex;
+        margin: 0 auto;
+        background-color: aquamarine;
+    }
+    .main {
+        display: flex;
+        flex-flow: column;
+        width: 85%;
+    }
+    .menu {
+        width: 15%;
+        background-color: rgb(99, 56, 250);
+        padding: 10px 20px 0px;
+        color: white;
+        align-content: center;
+    }
+    .header {
+        background-color: ghostwhite;
+        min-height: 150px;
+    }
+    .content {
+        background-color: white;
+        min-height: 300px;
+        padding: 20px;
+    }
+    .footer {
+        background-color: rgb(70, 56, 300);
+        min-height: 120px;
+    }
+    .img {
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+        }
+    .footer1 {
+        background-color: rgb(70, 56, 300);
+        min-height: 60px;
+        float: left;
+        text-align: center;
+
+    }
+    .footer2 {
+        background-color: rgb(70, 56, 300);
+        min-height: 60px;
+        float: right;
+        text-align: center;
+        width: 60%;
+    }
+    .content{
+        background-color: #f9f9f9;
+    }
+    fieldset{
+		margin: 5px 0;
+		border-radius: 15px;
+		border-color: black;
+	}
+    table.atendimento tbody tr:nth-child(even) td {
+		background-color:lightcyan;
+    }
+	table.atendimento tbody tr:hover td {
+		background-color:lightgoldenrodyellow;
+		cursor: pointer;
+    }
+    table.atendimento thead{
+        background-color: aqua;
+        border-bottom: black;
+    }
+    label.form{
+        display: inline-block;
+        width: 80px;
+    }
