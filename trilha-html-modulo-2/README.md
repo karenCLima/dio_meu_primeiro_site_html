@@ -2,6 +2,7 @@
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 ### Neste Projeto Eu criei um site de uma clínica chamada Amigos da Saúde seguindo as especificações abaixo para o Projeto do módulo 2 da Trilha HTML da DIO. Esse projeto faz parte do Bootcamp Primeiros Passos na Tecnologia.
+#### OBS: As imagen foram feitas no Canvas e os icones são do site Font Awesome.
 
 
 #### Instruções
